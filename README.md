@@ -1,14 +1,14 @@
 <br/>
 <p align="center">
   <a href="https://github.com/gauravsekhri/realtime-google-docs-clone">
-    <img src="/main-png.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/public/app_logo.jpg?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ReadME Generator</h3>
+  <h3 align="center">Realtime Google Docs Clone</h3>
 
   <p align="center">
-    <p>Collaborate anytime anywhere with minimal setup!</p>
-    <p>ReactJs | TypeScript | Material UI | NestJs | Socket.IO | MongoDb</p>
+    <p align="center">Collaborate anytime anywhere with minimal setup!</p>
+    <p align="center">ReactJs | TypeScript | Material UI | NestJs | Socket.io | MongoDb</p>
     <br/>
     <br/>
     <a href="https://github.com/gauravsekhri/realtime-google-docs-clone/issues">Request Feature</a>
@@ -19,7 +19,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/public/main-png.jpg?raw=true)
 
 - Create and edit documents in real-time with multiple users, witnessing every keystroke and idea blossom in sync.
 - Experience a rich text editor that rivals the industry giants, effortlessly formatting text, embedding images, crafting tables, and unleashing your creativity.
