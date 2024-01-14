@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/gauravsekhri/realtime-google-docs-clone">
-    <img src="https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/public/app_logo.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/frontend/public/app_logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Realtime Google Docs Clone</h3>
@@ -20,7 +20,7 @@
 
 ### Collaborate Anywhere!
 
-![Screen Shot](https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/public/main-png.jpg?raw=true)
+![Screen Shot](https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/frontend/public/main-png.jpg?raw=true)
 
 - Create and edit documents in real-time with multiple users, witnessing every keystroke and idea blossom in sync.
 - Experience a rich text editor that rivals the industry giants, effortlessly formatting text, embedding images, crafting tables, and unleashing your creativity.
@@ -29,7 +29,7 @@
 
 ### Share with anyone
 
-![Screen Shot](https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/public/share-png.jpg?raw=true)
+![Screen Shot](https://github.com/gauravsekhri/realtime-google-docs-clone/blob/master/frontend/public/share-png.jpg?raw=true)
 
 Share your document with anyone. Select between view and edit access to specific users.
 
