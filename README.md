@@ -43,7 +43,7 @@ Backend : NestJs, Socket.IO and MongoDb
 Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/gauravsekhri/realtime-google-docs-clone.git
 ```
 
 ### Frontend
